@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Behance-lightblue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
   </a>
   <a href="https://www.hackerrank.com/profile/archisha_y">
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png](https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black)" alt="Hackerrank Badge"/>
+    <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" alt="Hackerrank Badge"/>
   </a>
   
 </div>
