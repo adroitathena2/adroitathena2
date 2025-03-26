@@ -15,6 +15,9 @@
   <a href="https://www.behance.net/archishayadav">
     <img src="https://img.shields.io/badge/Behance-lightblue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
   </a>
+  <a href="https://www.hackerrank.com/profile/archisha_y">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="Hackerrank Badge"/>
+  </a>
   
 </div>
 
